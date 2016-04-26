@@ -19,9 +19,8 @@ Made with NodeJS, ReactJS, and Java's Bayes Classifer. Feel free to fork and con
 
 ##How to Run
 ```
-$ npm install
-$ node index.js
+$ node server.js
 ```
-and check your port 80!
+and check port 80!
 
 Contributors: Sameer Khoja, Estella Xin, Brandon Harwood, John, and Richard Kriesman.
